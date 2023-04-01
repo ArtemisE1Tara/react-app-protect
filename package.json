@@ -1,10 +1,13 @@
 {
-  "name": "react-app-protect",
+  "name": "react-app-protect-beta",
   "version": "1.0.8",
   "description": "Password protect a react app.",
   "author": "ArtemisE1Tara",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ArtemisE1Tara"
+  },
   "license": "MIT",
-  "repository": "bay0/react-app-protect",
+  "repository": "ArtemisE1Tara/react-app-protect",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
