@@ -4,7 +4,7 @@
   "description": "Password protect a react app.",
   "author": "ArtemisE1Tara",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/ArtemisE1Tara"
+    "@ArtemisE1Tara:registry": "https://npm.pkg.github.com"
   },
   "license": "MIT",
   "repository": "ArtemisE1Tara/react-app-protect",
